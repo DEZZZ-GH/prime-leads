@@ -30,7 +30,7 @@ export default function Home() {
             </h1>
 
             <p className="mt-4 max-w-xl text-neutral-300">
-              High-intent, SMS-verified leads for Forex brokers, investment brands, complaints and recovery teams — with no middlemen.
+              High-intent, SMS-verified leads for Forex brokers, investment brands, complaints and recovery teams, with no middlemen.
             </p>
 
             <div className="mt-7 flex flex-wrap gap-3">
